@@ -8,7 +8,7 @@
 
 Install it once as a plugin and every style in the library is available to Claude.
 
-> **Status:** early. 66 skills are live (22 motion styles, 19 dynamic captions, 25 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
+> **Status:** early. 68 skills are live (22 motion styles, 21 dynamic captions, 25 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
 
 ---
 
@@ -74,7 +74,7 @@ Every skill belongs to one category. The number is only its place in the library
 | 60 | [**Swiss Poster**](skills/60-style-swiss-poster/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/60-style-swiss-poster.gif" width="240" alt="Original vs after Claude">](skills/60-style-swiss-poster/#results) | A six-column hairline grid locks your footage into red or paper modules, with giant flush-left bold captions, step numerals, one red circle and a column-sweep swap on every cut | video + captions · image + text · script |
 | 61 | [**Ornate Frame**](skills/61-style-ornate-frame/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/61-style-ornate-frame.gif" width="240" alt="Original vs after Claude">](skills/61-style-ornate-frame/#results) | Footage in a pointed-arch window on ivory paper inside an engraved gold frame with beaded lines, vine corners and oxblood rosettes, lacquer caption plates in ivory serif, gold glints on cuts | video + captions · image + text · script |
 
-### Dynamic Captions (19)
+### Dynamic Captions (21)
 
 | # | Caption | Preview | Signature moments | Works with |
 |---|---|---|---|---|
@@ -97,6 +97,8 @@ Every skill belongs to one category. The number is only its place in the library
 | 126 | [**Arc Crown Caps**](skills/126-caption-arc-crown-caps/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/126-caption-arc-crown-caps.gif" width="240" alt="Original vs after Claude">](skills/126-caption-arc-crown-caps/#results) | The key word of each phrase curves over the head as a chunky accent arch with a small 3D edge while the small words pile up as tilted white caps on the chest | video + captions · image + text · script |
 | 128 | [**Ghost Underline**](skills/128-caption-ghost-underline/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/128-caption-ghost-underline.gif" width="240" alt="Original vs after Claude">](skills/128-caption-ghost-underline/#results) | Mid-frame captions building word by word from ghost-grey to heavy white sans, each phrase with one slim serif-italic keyword carrying a gradient underline | video + captions · image + text · script |
 | 130 | [**Whisper Blob**](skills/130-caption-whisper-blob/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/130-caption-whisper-blob.gif" width="240" alt="Original vs after Claude">](skills/130-caption-whisper-blob/#results) | Tiny hand-brushed white whisper words over one fat rounded keyword on a solid dark slab, bent into an arch or wave, hopping between top and bottom lane to stay off the face | video + captions · image + text · script |
+| 135 | [**Gilt Crest Serif**](skills/135-caption-gilt-crest-serif/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/135-caption-gilt-crest-serif.gif" width="240" alt="Original vs after Claude">](skills/135-caption-gilt-crest-serif/#results) | Tiny white serif helper lines fading in word by word beside one giant heavy gradient-serif keyword per phrase, tucked behind the top of the speaker's head or placed in a lower lane | video + captions · image + text · script |
+| 136 | [**Pixel Resolve Serif**](skills/136-caption-pixel-resolve-serif/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/136-caption-pixel-resolve-serif.gif" width="240" alt="Original vs after Claude">](skills/136-caption-pixel-resolve-serif/#results) | Tiny white serif whispers beside tall stretched Didone capitals that resolve from a pixel mosaic, bend into arches and waves, slip behind the head and end on one giant mixed-case word | video + captions · image + text · script |
 
 ### Motion Graphics (25)
 
