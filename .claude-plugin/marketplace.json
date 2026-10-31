@@ -1,0 +1,15 @@
+{
+  "name": "claude-editing-skills",
+  "description": "Skills for generating mini motion-graphics clips, one visual style per skill.",
+  "owner": {
+    "name": "pihu26112005",
+    "url": "https://github.com/pihu26112005"
+  },
+  "plugins": [
+    {
+      "name": "claude-editing-skills",
+      "source": "./",
+      "description": "Teach Claude one motion-graphics style per skill and apply it to your own videos, images or scripts: captions, paper graphics, pushes and zooms added over your footage without changing it."
+    }
+  ]
+}

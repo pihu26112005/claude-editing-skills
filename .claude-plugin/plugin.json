@@ -1,0 +1,25 @@
+{
+  "name": "claude-editing-skills",
+  "displayName": "Motion Graphics Skills",
+  "version": "0.38.0",
+  "description": "Teach Claude one motion-graphics style per skill and apply it to your own videos, images or scripts: captions, paper graphics, pushes and zooms added over your footage without changing it.",
+  "author": {
+    "name": "pihu26112005",
+    "url": "https://github.com/pihu26112005"
+  },
+  "homepage": "https://github.com/pihu26112005/claude-editing-skills",
+  "repository": "https://github.com/pihu26112005/claude-editing-skills",
+  "license": "MIT",
+  "keywords": [
+    "captions",
+    "ffmpeg",
+    "google-flow",
+    "motion-graphics",
+    "reels",
+    "shorts",
+    "skills",
+    "veo",
+    "video-editing",
+    "video-prompts"
+  ]
+}
