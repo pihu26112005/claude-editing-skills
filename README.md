@@ -8,7 +8,7 @@
 
 Install it once as a plugin and every style in the library is available to Claude.
 
-> **Status:** early. 72 skills are live (22 motion styles, 25 dynamic captions, 25 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
+> **Status:** early. 76 skills are live (25 motion styles, 25 dynamic captions, 26 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
 
 ---
 
@@ -47,7 +47,7 @@ Every skill belongs to one category. The number is only its place in the library
 | **Dynamic Caption** (`caption`) | A caption system only: typography, timing, emphasis and caption motion over your untouched footage. |
 | **Motion Graphic** (`graphics`) | A ready-made animated graphic (a diagram, chart or explainer) that Claude renders from your own text, images and colours, in its own 16:9 or 9:16 format. Claude first asks for every value it needs. |
 
-### Motion Styles (22)
+### Motion Styles (25)
 
 | # | Style | Preview | Signature moments | Works with |
 |---|---|---|---|---|
@@ -73,6 +73,9 @@ Every skill belongs to one category. The number is only its place in the library
 | 58 | [**Y2K Chrome**](skills/58-style-y2k-chrome/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/58-style-y2k-chrome.gif" width="240" alt="Original vs after Claude">](skills/58-style-y2k-chrome/#results) | An icy-blue Y2K web world: liquid-chrome bubble titles, four-point sparkles, holographic pill captions and B-roll in glossy retro pop-up windows | video + captions · image + text · script |
 | 60 | [**Swiss Poster**](skills/60-style-swiss-poster/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/60-style-swiss-poster.gif" width="240" alt="Original vs after Claude">](skills/60-style-swiss-poster/#results) | A six-column hairline grid locks your footage into red or paper modules, with giant flush-left bold captions, step numerals, one red circle and a column-sweep swap on every cut | video + captions · image + text · script |
 | 61 | [**Ornate Frame**](skills/61-style-ornate-frame/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/61-style-ornate-frame.gif" width="240" alt="Original vs after Claude">](skills/61-style-ornate-frame/#results) | Footage in a pointed-arch window on ivory paper inside an engraved gold frame with beaded lines, vine corners and oxblood rosettes, lacquer caption plates in ivory serif, gold glints on cuts | video + captions · image + text · script |
+| 148 | [**Cream Ink Pages**](skills/148-style-cream-ink-pages/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/148-style-cream-ink-pages.gif" width="240" alt="Original vs after Claude">](skills/148-style-cream-ink-pages/#results) | Bold white word-by-word captions with an amber label keyword cutting to cream paper pages that hold the live footage in a rounded card beside plum ink captions and a rolling step counter, with a scalloped badge and drawn stickers | video + captions · image + text · script |
+| 150 | [**Amber Widget Pipes**](skills/150-style-amber-widget-pipes/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/150-style-amber-widget-pipes.gif" width="240" alt="Original vs after Claude">](skills/150-style-amber-widget-pipes/#results) | Frosted pills resolving from pixel blocks behind the speaker, white widget cards with growing charts and flipping switches, a gradient page the footage shrinks into as a rounded window, a glowing tube that forks in two and a glowing giant-word title | video + captions · image + text · script |
+| 152 | [**Mosaic Gloss**](skills/152-style-mosaic-gloss/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/152-style-mosaic-gloss.gif" width="240" alt="Original vs after Claude">](skills/152-style-mosaic-gloss/#results) | A rounded footage card on a pastel gradient page, pixel-mosaic wipes on every cut, glowing typed keywords over whisper words, a glossy pill slot with a ball knob and a speech-bubble caption | video + captions · image + text · script |
 
 ### Dynamic Captions (25)
 
@@ -104,7 +107,7 @@ Every skill belongs to one category. The number is only its place in the library
 | 143 | [**Sash Orbit Plate**](skills/143-caption-sash-orbit-plate/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/143-caption-sash-orbit-plate.gif" width="240" alt="Original vs after Claude">](skills/143-caption-sash-orbit-plate/#results) | A glossy teal sash orbiting the speaker, back half behind the head and front half over the chest, carrying a tracked uppercase title, with every other line on a small dark rounded plate with an accent border | video + captions · image + text · script |
 | 144 | [**Ring Chip Script**](skills/144-caption-ring-chip-script/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/144-caption-ring-chip-script.gif" width="240" alt="Original vs after Claude">](skills/144-caption-ring-chip-script/#results) | One low line of small hand-lettered white words per phrase, the key word on a solid rounded cyan chip in marker lettering and one other word circled by a loose violet hand-drawn ring | video + captions · image + text · script |
 
-### Motion Graphics (25)
+### Motion Graphics (26)
 
 | # | Graphic | Preview | What it shows | You provide |
 |---|---|---|---|---|
@@ -133,6 +136,7 @@ Every skill belongs to one category. The number is only its place in the library
 | 108 | [**Highlight Snippet Flicker**](skills/108-graphics-highlight-snippet-flicker/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/108-graphics-highlight-snippet-flicker.gif" width="240" alt="Highlight Snippet Flicker demo">](skills/108-graphics-highlight-snippet-flicker/#results) | One marker-highlighted keyword stays fixed while article snippets cut past at about ten a second on crumpled paper, with streaked edges and blurred body text (9:16) | 1 keyword + 9 snippets |
 | 109 | [**Shattered Front Page Pullback**](skills/109-graphics-shattered-front-page-pullback/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/109-graphics-shattered-front-page-pullback.gif" width="240" alt="Shattered Front Page Pullback demo">](skills/109-graphics-shattered-front-page-pullback/#results) | A newspaper front page breaks into ragged shards that drift apart and snap back together while the camera pulls out from a giant headline to the whole page (1:1) | masthead + 2-line headline + subhead + 1 photo |
 | 110 | [**Cursor Morph Widget**](skills/110-graphics-cursor-morph-widget/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/110-graphics-cursor-morph-widget.gif" width="240" alt="Cursor Morph Widget demo">](skills/110-graphics-cursor-morph-widget/#results) | One black-and-white UI shape never cuts as a cursor morphs it through button, loader, check, island, player, slider, toggle, tabs, chart, command palette and toast, looping back to the button (1:1) | button label + track + tabs + metric + search + toast texts |
+| 146 | [**Pinned Stamp Timeline**](skills/146-graphics-pinned-stamp-timeline/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/146-graphics-pinned-stamp-timeline.gif" width="240" alt="Pinned Stamp Timeline demo">](skills/146-graphics-pinned-stamp-timeline/#results) | Three dated picture stamps pinned on a scrolling paper ruler with counted years-later tapes, a pull-back to a gap bracket, a torn note card and a horizontal ruler recap (9:16) | 3 events + 3 pictures + headlines |
 
 Style and caption previews show the original footage next to Claude's result; click one to see the full before/after. Graphic previews show the graphic filled with sample text and images.
 
