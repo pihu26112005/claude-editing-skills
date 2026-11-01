@@ -8,7 +8,7 @@
 
 Install it once as a plugin and every style in the library is available to Claude.
 
-> **Status:** early. 68 skills are live (22 motion styles, 21 dynamic captions, 25 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
+> **Status:** early. 72 skills are live (22 motion styles, 25 dynamic captions, 25 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
 
 ---
 
@@ -74,7 +74,7 @@ Every skill belongs to one category. The number is only its place in the library
 | 60 | [**Swiss Poster**](skills/60-style-swiss-poster/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/60-style-swiss-poster.gif" width="240" alt="Original vs after Claude">](skills/60-style-swiss-poster/#results) | A six-column hairline grid locks your footage into red or paper modules, with giant flush-left bold captions, step numerals, one red circle and a column-sweep swap on every cut | video + captions · image + text · script |
 | 61 | [**Ornate Frame**](skills/61-style-ornate-frame/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/61-style-ornate-frame.gif" width="240" alt="Original vs after Claude">](skills/61-style-ornate-frame/#results) | Footage in a pointed-arch window on ivory paper inside an engraved gold frame with beaded lines, vine corners and oxblood rosettes, lacquer caption plates in ivory serif, gold glints on cuts | video + captions · image + text · script |
 
-### Dynamic Captions (21)
+### Dynamic Captions (25)
 
 | # | Caption | Preview | Signature moments | Works with |
 |---|---|---|---|---|
@@ -99,6 +99,10 @@ Every skill belongs to one category. The number is only its place in the library
 | 130 | [**Whisper Blob**](skills/130-caption-whisper-blob/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/130-caption-whisper-blob.gif" width="240" alt="Original vs after Claude">](skills/130-caption-whisper-blob/#results) | Tiny hand-brushed white whisper words over one fat rounded keyword on a solid dark slab, bent into an arch or wave, hopping between top and bottom lane to stay off the face | video + captions · image + text · script |
 | 135 | [**Gilt Crest Serif**](skills/135-caption-gilt-crest-serif/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/135-caption-gilt-crest-serif.gif" width="240" alt="Original vs after Claude">](skills/135-caption-gilt-crest-serif/#results) | Tiny white serif helper lines fading in word by word beside one giant heavy gradient-serif keyword per phrase, tucked behind the top of the speaker's head or placed in a lower lane | video + captions · image + text · script |
 | 136 | [**Pixel Resolve Serif**](skills/136-caption-pixel-resolve-serif/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/136-caption-pixel-resolve-serif.gif" width="240" alt="Original vs after Claude">](skills/136-caption-pixel-resolve-serif/#results) | Tiny white serif whispers beside tall stretched Didone capitals that resolve from a pixel mosaic, bend into arches and waves, slip behind the head and end on one giant mixed-case word | video + captions · image + text · script |
+| 139 | [**Full Bleed Caps**](skills/139-caption-full-bleed-caps/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/139-caption-full-bleed-caps.gif" width="240" alt="Original vs after Claude">](skills/139-caption-full-bleed-caps/#results) | One giant ultra-heavy condensed capital keyword per phrase in a flat accent colour stretched edge to edge at the top and tucked behind the hair, plus a tiny word-by-word line with the keyword in bold | video + captions · image + text · script |
+| 140 | [**Sky Fill Sans**](skills/140-caption-sky-fill-sans/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/140-caption-sky-fill-sans.gif" width="240" alt="Original vs after Claude">](skills/140-caption-sky-fill-sans/#results) | Small bold white sans words fading in around one giant extra-heavy keyword filled with a drifting cloud-and-sky texture, across the chest or in a top or low lane, clear of the face | video + captions · image + text · script |
+| 143 | [**Sash Orbit Plate**](skills/143-caption-sash-orbit-plate/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/143-caption-sash-orbit-plate.gif" width="240" alt="Original vs after Claude">](skills/143-caption-sash-orbit-plate/#results) | A glossy teal sash orbiting the speaker, back half behind the head and front half over the chest, carrying a tracked uppercase title, with every other line on a small dark rounded plate with an accent border | video + captions · image + text · script |
+| 144 | [**Ring Chip Script**](skills/144-caption-ring-chip-script/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/144-caption-ring-chip-script.gif" width="240" alt="Original vs after Claude">](skills/144-caption-ring-chip-script/#results) | One low line of small hand-lettered white words per phrase, the key word on a solid rounded cyan chip in marker lettering and one other word circled by a loose violet hand-drawn ring | video + captions · image + text · script |
 
 ### Motion Graphics (25)
 
