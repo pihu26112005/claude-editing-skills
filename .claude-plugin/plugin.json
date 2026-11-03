@@ -1,7 +1,7 @@
 {
   "name": "claude-editing-skills",
   "displayName": "Motion Graphics Skills",
-  "version": "0.49.0",
+  "version": "0.50.0",
   "description": "Teach Claude one motion-graphics style per skill and apply it to your own videos, images or scripts: captions, paper graphics, pushes and zooms added over your footage without changing it.",
   "author": {
     "name": "pihu26112005",
