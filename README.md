@@ -1,53 +1,58 @@
-# Motion Graphics Skills
+<div align="center">
 
-**Teach your Claude one motion-graphics style at a time.** Each skill in this library makes Claude an expert in a single visual style: what it looks like, which moments make it engaging, and how to apply them. Then you give Claude your own material and it dresses it in that style.
+<img src="assets/banner.png" alt="Motion Graphics Skills for Claude" width="100%">
 
-- 🎬 **Your video + captions** → the same video, untouched, with the style's captions, paper graphics, pushes and zooms added on top.
-- 🖼️ **Your image + text** → a poster in that style.
-- ✍️ **Just a script** → Claude asks about your story, then writes clean-footage prompts for your video model, or builds a graphics-only video.
+<h3>Give your videos a signature look in one message.</h3>
 
-Install it once as a plugin and every style in the library is available to Claude.
+<p>Motion styles, dynamic captions, animated graphics and AI reel prompts for Claude.<br>Prefer Google Flow? Every skill is also a ready-to-paste Flow prompt.</p>
 
-> **Status:** early. 76 skills are live (25 motion styles, 25 dynamic captions, 26 motion graphics) and the goal is around 200. Each skill lives in a numbered folder with its own demo.
+<p>
+<img src="https://img.shields.io/badge/Claude-plugin-D97757?style=for-the-badge" alt="Claude plugin">
+<img src="https://img.shields.io/badge/skills-76-262624?style=for-the-badge" alt="skills">
+<img src="https://img.shields.io/badge/Google_Flow-prompts-4285F4?style=for-the-badge" alt="Google Flow prompts">
+<img src="https://img.shields.io/badge/license-MIT-2f7d5b?style=for-the-badge" alt="MIT">
+<a href="https://github.com/pihu26112005/claude-editing-skills/stargazers"><img src="https://img.shields.io/github/stars/pihu26112005/claude-editing-skills?style=for-the-badge&color=D97757" alt="stars"></a>
+</p>
+
+<p><b><a href="https://motion-graphics-skills.vercel.app">Website</a></b> &nbsp;·&nbsp; <a href="https://motion-graphics-skills.vercel.app/setup/">Setup guide</a> &nbsp;·&nbsp; <a href="#install">Install</a> &nbsp;·&nbsp; <a href="#skill-catalog">Catalog</a> &nbsp;·&nbsp; <a href="#google-flow-prompts">Google Flow prompts</a></p>
+
+<img src="assets/hero.png" alt="Examples of the styles and captions" width="94%">
+
+</div>
 
 ---
 
 ## Contents
 
-- [Why this exists](#why-this-exists)
 - [Skill catalog](#skill-catalog)
 - [Install](#install)
-- [Use a style](#use-a-style)
-- [How a style skill works](#how-a-style-skill-works)
+- [Google Flow prompts](#google-flow-prompts)
 - [Repository structure](#repository-structure)
-- [Add a new style](#add-a-new-style)
-- [FAQ](#faq)
 - [License](#license)
-
----
-
-## Why this exists
-
-If you ask an AI to "make my video look like this style", it usually **replaces your video**: a new presenter, new scenes, and garbled captions. These skills do the opposite:
-
-1. **Your footage stays yours.** Claude may only push, slide or zoom your video and lay style graphics over or under it. It never regenerates, recolours, trims or re-orders it, and the audio is kept as is.
-2. **Exact captions.** All text is rendered with real fonts from your words, never drawn by an image or video model, so you get no nonsense words.
-3. **No breakdowns.** Every move is eased and continuous, and moments respect the cuts already in your footage, so there are no jumps, black bars or flicker.
-4. **A real style, not a guess.** Each skill defines its style precisely in a moment library: every engaging moment with its graphics, typography, motion keyframes, zoom and caption behaviour. Claude chooses moments that fit your story and adapts only their timing, words and position.
 
 ---
 
 ## Skill catalog
 
-Every skill belongs to one category. The number is only its place in the library; the category is part of its folder name (`<number>-<category>-<name>`).
+| Category | What it does | You give it |
+|---|---|---|
+| **Motion Styles** | A complete look: layouts, cards, transitions, graphics and captions around your footage. | your video, and optionally its script |
+| **Dynamic Captions** | A caption system only: type, timing and emphasis over your untouched footage. | your video, and optionally its script |
+| **Motion Graphics** | A ready-made animated graphic (diagram, chart, explainer) built from your own text, images and colours. | your text or script, and images |
 
-| Category | What the skill does |
-|---|---|
-| **Motion Style** (`style`) | A complete motion-graphics look: layouts, cards, transitions, graphics and captions around your footage. |
-| **Dynamic Caption** (`caption`) | A caption system only: typography, timing, emphasis and caption motion over your untouched footage. |
-| **Motion Graphic** (`graphics`) | A ready-made animated graphic (a diagram, chart or explainer) that Claude renders from your own text, images and colours, in its own 16:9 or 9:16 format. Claude first asks for every value it needs. |
+Click a preview to open the skill. Every skill is one folder, `skills/<number>-<category>-<name>/`.
 
-### Motion Styles (25)
+### Motion Styles
+
+<div align="center">
+<a href="skills/2-style-editorial-grid/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/2-style-editorial-grid.gif" width="23%" alt=""></a>
+<a href="skills/17-style-zine-mix/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/17-style-zine-mix.gif" width="23%" alt=""></a>
+<a href="skills/29-style-punk-photocopy/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/29-style-punk-photocopy.gif" width="23%" alt=""></a>
+<a href="skills/57-style-ios-widgets/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/57-style-ios-widgets.gif" width="23%" alt=""></a>
+</div>
+
+<details>
+<summary><b>Browse all motion styles</b></summary>
 
 | # | Style | Preview | Signature moments | Works with |
 |---|---|---|---|---|
@@ -77,7 +82,19 @@ Every skill belongs to one category. The number is only its place in the library
 | 150 | [**Amber Widget Pipes**](skills/150-style-amber-widget-pipes/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/150-style-amber-widget-pipes.gif" width="240" alt="Original vs after Claude">](skills/150-style-amber-widget-pipes/#results) | Frosted pills resolving from pixel blocks behind the speaker, white widget cards with growing charts and flipping switches, a gradient page the footage shrinks into as a rounded window, a glowing tube that forks in two and a glowing giant-word title | video + captions · image + text · script |
 | 152 | [**Mosaic Gloss**](skills/152-style-mosaic-gloss/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/152-style-mosaic-gloss.gif" width="240" alt="Original vs after Claude">](skills/152-style-mosaic-gloss/#results) | A rounded footage card on a pastel gradient page, pixel-mosaic wipes on every cut, glowing typed keywords over whisper words, a glossy pill slot with a ball knob and a speech-bubble caption | video + captions · image + text · script |
 
-### Dynamic Captions (25)
+</details>
+
+### Dynamic Captions
+
+<div align="center">
+<a href="skills/5-caption-depth-headline/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/5-caption-depth-headline.gif" width="23%" alt=""></a>
+<a href="skills/42-caption-gradient-stack/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/42-caption-gradient-stack.gif" width="23%" alt=""></a>
+<a href="skills/117-caption-tall-serif-stack/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/117-caption-tall-serif-stack.gif" width="23%" alt=""></a>
+<a href="skills/130-caption-whisper-blob/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/130-caption-whisper-blob.gif" width="23%" alt=""></a>
+</div>
+
+<details>
+<summary><b>Browse all dynamic captions</b></summary>
 
 | # | Caption | Preview | Signature moments | Works with |
 |---|---|---|---|---|
@@ -107,7 +124,19 @@ Every skill belongs to one category. The number is only its place in the library
 | 143 | [**Sash Orbit Plate**](skills/143-caption-sash-orbit-plate/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/143-caption-sash-orbit-plate.gif" width="240" alt="Original vs after Claude">](skills/143-caption-sash-orbit-plate/#results) | A glossy teal sash orbiting the speaker, back half behind the head and front half over the chest, carrying a tracked uppercase title, with every other line on a small dark rounded plate with an accent border | video + captions · image + text · script |
 | 144 | [**Ring Chip Script**](skills/144-caption-ring-chip-script/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/144-caption-ring-chip-script.gif" width="240" alt="Original vs after Claude">](skills/144-caption-ring-chip-script/#results) | One low line of small hand-lettered white words per phrase, the key word on a solid rounded cyan chip in marker lettering and one other word circled by a loose violet hand-drawn ring | video + captions · image + text · script |
 
-### Motion Graphics (26)
+</details>
+
+### Motion Graphics
+
+<div align="center">
+<a href="skills/64-graphics-tabletop-card-fan/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/64-graphics-tabletop-card-fan.gif" width="23%" alt=""></a>
+<a href="skills/75-graphics-clipped-photo-desk/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/75-graphics-clipped-photo-desk.gif" width="23%" alt=""></a>
+<a href="skills/85-graphics-twin-swoosh-callouts/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/85-graphics-twin-swoosh-callouts.gif" width="23%" alt=""></a>
+<a href="skills/99-graphics-slip-surface-cuts/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/99-graphics-slip-surface-cuts.gif" width="23%" alt=""></a>
+</div>
+
+<details>
+<summary><b>Browse all motion graphics</b></summary>
 
 | # | Graphic | Preview | What it shows | You provide |
 |---|---|---|---|---|
@@ -138,7 +167,7 @@ Every skill belongs to one category. The number is only its place in the library
 | 110 | [**Cursor Morph Widget**](skills/110-graphics-cursor-morph-widget/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/110-graphics-cursor-morph-widget.gif" width="240" alt="Cursor Morph Widget demo">](skills/110-graphics-cursor-morph-widget/#results) | One black-and-white UI shape never cuts as a cursor morphs it through button, loader, check, island, player, slider, toggle, tabs, chart, command palette and toast, looping back to the button (1:1) | button label + track + tabs + metric + search + toast texts |
 | 146 | [**Pinned Stamp Timeline**](skills/146-graphics-pinned-stamp-timeline/) | [<img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/146-graphics-pinned-stamp-timeline.gif" width="240" alt="Pinned Stamp Timeline demo">](skills/146-graphics-pinned-stamp-timeline/#results) | Three dated picture stamps pinned on a scrolling paper ruler with counted years-later tapes, a pull-back to a gap bracket, a torn note card and a horizontal ruler recap (9:16) | 3 events + 3 pictures + headlines |
 
-Style and caption previews show the original footage next to Claude's result; click one to see the full before/after. Graphic previews show the graphic filled with sample text and images.
+</details>
 
 ---
 
@@ -166,146 +195,41 @@ claude plugin update claude-editing-skills@claude-editing-skills
 
 ### claude.ai and Cowork
 
-Once the plugin is listed in Anthropic's directory, open **Customize → Plugins**, search for **Motion Graphics Skills** and add it. Until then, upload a single style as a skill: zip one folder from `skills/` (for example `skills/1-style-torn-paper-scrapbook/`) and add it under **Customize → Skills**. Video editing needs code execution turned on.
+Open **Customize → Plugins**, search for **Motion Graphics Skills** and add it. Or upload one skill: zip a folder from `skills/` and add it under **Customize → Skills**. Then type `/` in any chat and pick a skill.
 
-### One style without the plugin
+New to this? The picture-by-picture **[setup guide on the website](https://motion-graphics-skills.vercel.app/setup/)** walks through every click.
 
-```bash
-git clone https://github.com/pihu26112005/claude-editing-skills
-cp -r claude-editing-skills/skills/1-style-torn-paper-scrapbook ~/.claude/skills/
-```
-
-**Requirements for editing videos:** Python 3 with Pillow and NumPy, and `ffmpeg`. Optional: `faster-whisper` for more precise caption timing, and `rembg` or MediaPipe for graphics placed behind a person.
+Editing videos locally needs Python 3 with Pillow and NumPy, and `ffmpeg`.
 
 ---
 
-## Use a style
+## Google Flow prompts
 
-**On claude.ai and Cowork:** type `/` in the message box, pick the skill (for example `1-style-torn-paper-scrapbook`), attach your video and paste its captions:
+Not using Claude? Every skill also ships as one copy-paste prompt for Google Flow, in `google_flow_prompts/<same-folder-name>/prompt.md`.
 
-```
-/1-style-torn-paper-scrapbook
-Add this style to my video. Don't change the footage. Captions:
-"Saving money isn't about earning more. Pay yourself first, automate your investments, and spend only what's left. Do it for one year and watch what happens."
-```
+1. Upload your video (or the images and clips the prompt names) in Flow.
+2. Fill in the **INPUTS** block at the top of the prompt, including your script or captions if you have them.
+3. Paste the whole file and generate.
 
-**In Claude Code:** the same, with the plugin name in front:
-
-```
-/claude-editing-skills:1-style-torn-paper-scrapbook
-Add this style to my video. Don't change the footage. Captions:
-"Saving money isn't about earning more. Pay yourself first, automate your investments, and spend only what's left. Do it for one year and watch what happens."
-```
-
-You can also just describe it ("add torn paper scrapbook captions to this video") and Claude picks the skill.
-
-What Claude does depends on what you give it:
-
-| You give | Claude asks | You get |
-|---|---|---|
-| video + captions | nothing | your video with the style added |
-| video only | the captions | your video with the style added |
-| image + text | nothing | a poster in the style |
-| captions / script only | what the story looks like, and video or image | clean-footage prompts (then edits your clips), or a graphics-only video |
-| nothing | the story and the captions | as above |
-
-For a video, Claude then:
-1. Finds the cuts in your footage, looks at every scene, and marks faces and empty areas.
-2. Times your captions to the speech.
-3. Finds the hook points: the opening line, contrasts, lists, numbers, emphasis words, scene changes and the payoff.
-4. Picks moments from the style's library for those points and adapts their timing, words and placement.
-5. Renders, checks the frames itself, and saves `<your video>_torn_paper.mp4` with the original resolution, frame rate, length and audio.
-
----
-
-## How a style skill works
-
-Every style folder has two working files:
-
-| File | What it holds |
-|---|---|
-| `SKILL.md` | The workflow: identify the input case, ask only what's missing, analyse scenes, time captions, find hook points, choose and adapt moments, build, check, deliver. Plus the hard rules that protect your footage. |
-| `moments.md` | **Part 1, style bible:** palette, paper material, typography, motion language, allowed plate moves, safe zones. **Part 2, moment library:** every engaging moment of the style, each with its purpose, triggers, layer stack, graphics, text rules, keyframe table, plate (zoom/push) behaviour, caption behaviour, exit, build notes, and a text version for video-model prompts. |
-
-Plus `README.md`, which embeds its before/after GIF and the original clip from the companion [motion-graphics-skills-media](https://github.com/pihu26112005/motion-graphics-skills-media) repo, so no video or GIF files live in this repo.
-
-Claude only loads a skill's instructions when your request matches its description. Until then, each style costs only its short description in context.
+Existing captions in your video are removed first, so the old and the new words never show twice.
 
 ---
 
 ## Repository structure
 
 ```
-claude-editing-skills/
-├── .claude-plugin/
-│   ├── marketplace.json        ← makes the repo addable as a marketplace
-│   └── plugin.json             ← plugin manifest (name, version, metadata)
-├── skills/
-│   ├── 1-style-torn-paper-scrapbook/
-│   │   ├── SKILL.md
-│   │   ├── moments.md
-│   │   └── README.md
-│   └── <n>-<category>-<name>/
-│       └── ...
-├── LICENSE
-└── README.md
+.
+├── skills/                 one folder per skill: SKILL.md + the design files
+├── google_flow_prompts/    the same skills as Google Flow prompts (prompt.md)
+├── assets/                 README images
+├── .claude-plugin/         plugin and marketplace manifests
+└── LICENSE
 ```
 
-Demo videos and GIFs are not stored here. They live in the public [motion-graphics-skills-media](https://github.com/pihu26112005/motion-graphics-skills-media) repo, and each skill's `README.md` embeds them from there with a `raw.githubusercontent.com` link. This keeps the plugin repo small (Anthropic's directory caps a repo's downloadable archive at 50 MiB), no matter how many styles get added.
-
-The repository root is both the marketplace and the plugin: `marketplace.json` lists one plugin whose `source` is `"./"`. Claude Code finds every `skills/<name>/SKILL.md` automatically, so adding a style needs no manifest change.
-
----
-
-## Add a new style
-
-1. Create `skills/<next-number>-<category>-<name>/`, using lowercase kebab-case. `<category>` is `style`, `caption` or `graphics` (e.g. `35-style-neon-grid` or `36-caption-bold-pop`). Numbers are never reused and run across all categories.
-2. Write `moments.md`:
-   - **Part 1, style bible:** palette (hex), materials and textures, typography (preferred free fonts and fallbacks), motion language (easing, durations), the allowed plate moves and safe zones.
-   - **Part 2, moments:** every engaging moment of the style, each fully specified (purpose, when to use and when to avoid, text rules, layer stack, graphics, keyframe table, plate behaviour, caption behaviour, exit, build notes, generation-mode text). Mark the fields Claude may adapt with ✎.
-3. Write `SKILL.md` with frontmatter:
-   ```yaml
-   ---
-   name: <next-number>-<category>-<name>
-   description: <The style's signature look in one sentence, then when to use it. 2–3 sentences: every description loads in every session.>
-   ---
-   ```
-   Keep the shared workflow (input cases, hard rules, analysis, hook points, build, checks) and adapt the hook-point table and signature to the new style.
-4. Make a demo with the skill on the shared input clip (the original clip lives at `https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/original.mp4`) and build a side-by-side comparison GIF at 400 px wide, 8 fps and 48 colours (about 2 MB).
-5. Push the GIF to the [motion-graphics-skills-media](https://github.com/pihu26112005/motion-graphics-skills-media) repo as `gifs/<n>-<category>-<name>.gif`, then write a short `README.md` for the skill starting with a Results section that embeds it:
-   ```markdown
-   ![Original vs after Claude: side-by-side comparison](https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/<n>-<category>-<name>.gif)
-
-   Original input clip: [demo2-original.mp4](https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/original.mp4)
-   ```
-   Then describe what the style looks like, what you can give it, and a "Try it" example. Do not commit any video or GIF file into this repo.
-6. Add a row to the right table of the [Skill catalog](#skill-catalog), bump `version` in `.claude-plugin/plugin.json`, and run:
-   ```bash
-   claude plugin validate .
-   ```
-
-**Adding a graphic** works the same way, with two differences. The folder is `skills/<n>-graphics-<name>/` and holds `SKILL.md`, `description.md` and `README.md`, with no `moments.md`. `description.md` is the full frame-by-frame specification of the one animation, plus a parameter table (`| P1 | Main text | yes | none, must ask | … |`) that says which values the user must provide and which have defaults. The demo is the graphic rendered with sample content in its own format, saved as `<n>-graphics-<name>/demo.mp4` and `gifs/<n>-graphics-<name>.gif` in the media repo.
-
-Contributions are welcome: one skill per pull request.
-
----
-
-## FAQ
-
-**Will it change my video?**
-No. It only moves or zooms your footage and adds style graphics and captions over or under it. Colours, speed, order, length and audio stay the same.
-
-**Where do the captions come from?**
-From your text, word for word. Claude times them to the speech, using speech-to-text timestamps if available and audio pauses otherwise. It never re-words them.
-
-**Do I need a video model?**
-Not for editing your own videos or images. A video model only comes in if you start from a script and want new footage. Even then Claude asks for clean footage without text and adds the style afterwards.
-
-**Can I use my brand colours?**
-Yes. Mention them and Claude maps them onto the style's colour roles.
+Demo videos and GIFs live in the public [motion-graphics-skills-media](https://github.com/pihu26112005/motion-graphics-skills-media) repo.
 
 ---
 
 ## License
 
-[MIT](LICENSE). Use, modify and share freely.
+MIT. See [LICENSE](LICENSE).
