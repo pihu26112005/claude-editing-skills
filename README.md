@@ -51,7 +51,7 @@ Click a preview to open the skill. Every skill is one folder, `skills/<number>-<
 <a href="skills/57-style-ios-widgets/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/57-style-ios-widgets.gif" width="23%" alt=""></a>
 </div>
 
-<details>
+<details open>
 <summary><b>Browse all motion styles</b></summary>
 
 | # | Style | Preview | Signature moments | Works with |
@@ -93,7 +93,7 @@ Click a preview to open the skill. Every skill is one folder, `skills/<number>-<
 <a href="skills/130-caption-whisper-blob/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/130-caption-whisper-blob.gif" width="23%" alt=""></a>
 </div>
 
-<details>
+<details open>
 <summary><b>Browse all dynamic captions</b></summary>
 
 | # | Caption | Preview | Signature moments | Works with |
@@ -135,7 +135,7 @@ Click a preview to open the skill. Every skill is one folder, `skills/<number>-<
 <a href="skills/99-graphics-slip-surface-cuts/"><img src="https://raw.githubusercontent.com/pihu26112005/motion-graphics-skills-media/main/gifs/99-graphics-slip-surface-cuts.gif" width="23%" alt=""></a>
 </div>
 
-<details>
+<details open>
 <summary><b>Browse all motion graphics</b></summary>
 
 | # | Graphic | Preview | What it shows | You provide |
