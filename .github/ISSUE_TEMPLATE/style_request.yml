@@ -1,0 +1,11 @@
+name: Style request
+description: Ask for a new style, caption or graphic
+labels: [style request]
+body:
+  - type: textarea
+    id: look
+    attributes: {label: The look, description: Describe it or link a reference video.}
+    validations: {required: true}
+  - type: dropdown
+    id: kind
+    attributes: {label: Category, options: [Motion style, Dynamic captions, Motion graphic]}

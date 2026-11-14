@@ -28,8 +28,10 @@
 
 - [Skill catalog](#skill-catalog)
 - [Install](#install)
+- [Usage](#usage)
 - [Google Flow prompts](#google-flow-prompts)
 - [Repository structure](#repository-structure)
+- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -196,6 +198,12 @@ Update later to get new styles:
 claude plugin update motion-graphics-skills@claude-editing-skills
 ```
 
+Or with the open skills CLI (works with Claude Code and other agents):
+
+```bash
+npx skills add pihu26112005/claude-editing-skills
+```
+
 Installed it before under the old name `claude-editing-skills`? Nothing to do: it moves to the new name by itself on the next update.
 
 ### claude.ai and Cowork
@@ -205,6 +213,24 @@ Open **Customize → Plugins**, search for **Motion Graphics Skills** and add it
 New to this? The picture-by-picture **[setup guide on the website](https://motion-graphics-skills.vercel.app/setup/)** walks through every click.
 
 Editing videos locally needs Python 3 with Pillow and NumPy, and `ffmpeg`.
+
+---
+
+## Usage
+
+Attach your video (or give its path) and name the skill, or just describe the look. Examples:
+
+```
+/motion-graphics-skills:12-style-marker-notes  edit talk.mp4 into a 9:16 reel, keywords: focus, habits, sleep
+```
+```
+Add Orchid Halo captions to interview.mp4, highlight the words "free" and "today"
+```
+```
+Make a Cursor Morph Widget graphic with the labels Upload, Render, Share in teal
+```
+
+Claude asks for anything missing, then renders a finished video next to yours. Your footage is never altered; only captions, cards and graphics are added around it. No Claude Code? Ask for the Google Flow prompt instead.
 
 ---
 
@@ -232,6 +258,12 @@ Existing captions in your video are removed first, so the old and the new words 
 ```
 
 Demo videos and GIFs live in the public [motion-graphics-skills-media](https://github.com/pihu26112005/motion-graphics-skills-media) repo.
+
+---
+
+## Contributing
+
+Bug reports, style requests and fixes are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 

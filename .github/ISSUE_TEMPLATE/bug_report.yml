@@ -1,0 +1,15 @@
+name: Bug report
+description: A skill did not work as expected
+labels: [bug]
+body:
+  - type: input
+    id: skill
+    attributes: {label: Skill, placeholder: 12-style-marker-notes}
+    validations: {required: true}
+  - type: textarea
+    id: what
+    attributes: {label: What happened, description: What you asked Claude and what went wrong. Screenshots help.}
+    validations: {required: true}
+  - type: input
+    id: env
+    attributes: {label: Where, placeholder: "Claude Code 2.1.x / claude.ai / Google Flow"}
