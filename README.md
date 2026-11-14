@@ -18,6 +18,8 @@
 
 <img src="assets/hero.png" alt="Examples of the styles and captions" width="94%">
 
+<p><sub>Free and open source. If a style saves you an evening of editing, a <a href="https://github.com/pihu26112005/claude-editing-skills/stargazers">star</a> helps other creators find it.</sub></p>
+
 </div>
 
 ---
@@ -175,23 +177,26 @@ Click a preview to open the skill. Every skill is one folder, `skills/<number>-<
 
 ### Claude Code
 
+One command, from inside a session (Claude Code 2.1.275 or later):
+
+```
+/plugin install motion-graphics-skills --marketplace pihu26112005/claude-editing-skills
+```
+
+Or in two steps, from your shell:
+
 ```bash
 claude plugin marketplace add pihu26112005/claude-editing-skills
-claude plugin install claude-editing-skills@claude-editing-skills
-```
-
-Or from inside a session:
-
-```
-/plugin marketplace add pihu26112005/claude-editing-skills
-/plugin install claude-editing-skills@claude-editing-skills
+claude plugin install motion-graphics-skills@claude-editing-skills
 ```
 
 Update later to get new styles:
 
 ```bash
-claude plugin update claude-editing-skills@claude-editing-skills
+claude plugin update motion-graphics-skills@claude-editing-skills
 ```
+
+Installed it before under the old name `claude-editing-skills`? Nothing to do: it moves to the new name by itself on the next update.
 
 ### claude.ai and Cowork
 
