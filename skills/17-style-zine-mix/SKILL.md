@@ -1,5 +1,5 @@
 ---
-name: 17-style-zine-mix
+name: "17-style-zine-mix"
 description: "Applies the \"Zine Mix\" motion-graphics style (powder-blue paper with a cloud-scalloped header holding a giant heavy black word and a tiny handwritten note, tilted blue-bordered photo cards, hand-drawn doodles, slanted spaced-out white handwritten captions, a cloud-shaped window page with a fat white word to close) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a zine, scrapbook-collage, doodle, handwritten-caption, pastel paper or creator-notebook look."
 ---
 

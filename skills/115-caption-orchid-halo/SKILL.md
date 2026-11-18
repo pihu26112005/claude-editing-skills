@@ -1,5 +1,5 @@
 ---
-name: 115-caption-orchid-halo
+name: "115-caption-orchid-halo"
 description: "Applies the \"Orchid Halo\" motion-graphics caption style (untouched full-frame footage, short low captions in heavy white sans that fade in word by word, with one large glowing italic serif accent word per chunk that settles in as it is spoken) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants glowing accent word, serif italic highlight, neon-glow or sans plus serif caption looks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: 57-style-ios-widgets
+name: "57-style-ios-widgets"
 description: "Applies the \"iOS Widgets\" motion-graphics style (untouched full-frame footage with frosted glass home-screen widgets dropping into the top corners, solid blue check pills ticked by a mouse cursor, a glass capsule closer, a white profile card whose Follow button gets clicked, and bold white captions with one word in a blue pill) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants iOS widgets, frosted glass UI, system blue pills, cursor clicks, a follow card or a phone-interface look."
 ---
 

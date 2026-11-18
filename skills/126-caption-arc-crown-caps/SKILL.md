@@ -1,5 +1,5 @@
 ---
-name: 126-caption-arc-crown-caps
+name: "126-caption-arc-crown-caps"
 description: "Applies the \"Arc Crown Caps\" caption system (untouched full-frame footage; the key word of each phrase as a bold accent-colour arch with a small 3D edge curved above the speaker's head, and the small words stacking as tilted white heavy caps on the chest, with a huge white solo word on punchlines) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants kinetic reels captions, a curved headline word over the head, bold keyword arches, tilted white word stacks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: 98-graphics-glow-line-decoder
+name: "98-graphics-glow-line-decoder"
 description: "Makes the \"Glow Line Decoder\" animated graphic (a glowing two-line headline over six list lines that go from blur to pixel mosaic to sharp text while the camera zooms in and scrolls down) from the user's own text and colours, as a finished 16:9 video. Use when the user wants a glowing text list reveal, six key points decoding on black, a pixelated-to-sharp text hook or a scrolling checklist intro."
 ---
 

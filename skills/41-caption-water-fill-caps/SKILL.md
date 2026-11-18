@@ -1,5 +1,5 @@
 ---
-name: 41-caption-water-fill-caps
+name: "41-caption-water-fill-caps"
 description: "Applies the \"Water Fill Caps\" motion-graphics caption style (untouched full-frame footage, small ultra-bold white lead-in words popping up under the face, landing on one giant keyword in chunky type filled with a blue water texture, hard cuts between phrases) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold, giant-keyword, blue-fill, heavy-type or punchy caption looks."
 ---
 

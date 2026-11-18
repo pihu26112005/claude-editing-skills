@@ -1,5 +1,5 @@
 ---
-name: 79-graphics-arrow-label-burst
+name: "79-graphics-arrow-label-burst"
 description: "Makes the \"Arrow Label Burst\" animated graphic (a glowing centre phrase types in on a dark hand-drawn grid, then four crayon arrows fire out one by one and four coloured labels pop at their tips) from the user's own text and colours, as a finished 16:9 video. Use when the user wants a text mind map, four-point text diagram, arrow-and-label explainer, neon marker keyword burst or branching text intro on a dark grid."
 ---
 

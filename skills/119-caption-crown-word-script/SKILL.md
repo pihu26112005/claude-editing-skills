@@ -1,5 +1,5 @@
 ---
-name: 119-caption-crown-word-script
+name: "119-caption-crown-word-script"
 description: "Applies the \"Crown Word Script\" motion-graphics caption style (one heavy condensed uppercase keyword with a thick black outline popping in above the speaker's head, plus flowing white script captions with a thin black outline that build word by word at lower left, footage untouched and full-frame) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold keyword headlines over the head, handwritten-style white captions, creator or vlog caption looks."
 ---
 

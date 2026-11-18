@@ -1,5 +1,5 @@
 ---
-name: 109-graphics-shattered-front-page-pullback
+name: "109-graphics-shattered-front-page-pullback"
 description: "Makes the \"Shattered Front Page Pullback\" animated graphic (a newspaper front page cut into nine ragged pieces that drift apart and snap back together while the camera pulls out from a giant headline close-up to the whole page) from the user's own masthead, headline, subhead and photo, as a finished 1:1 video. Use when the user wants a newspaper headline reveal, front-page intro, breaking-news card, cracked-paper headline or pieces-coming-together title."
 ---
 

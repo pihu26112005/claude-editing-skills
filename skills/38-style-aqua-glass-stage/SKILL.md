@@ -1,5 +1,5 @@
 ---
-name: 38-style-aqua-glass-stage
+name: "38-style-aqua-glass-stage"
 description: "Applies the \"Aqua Glass Stage\" motion-graphics style (footage in rounded frosted-glass cards on a sky-blue gradient or a white stage with pink and blue diagonal slabs, cards that glide between layouts on every cut, small frosted caption chips with one bold italic keyword, and a gradient outline that grows around the speaker) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a glassmorphism, frosted glass, blue gradient, app-like or soft pastel stage look."
 ---
 

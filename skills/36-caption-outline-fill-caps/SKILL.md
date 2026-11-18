@@ -1,5 +1,5 @@
 ---
-name: 36-caption-outline-fill-caps
+name: "36-caption-outline-fill-caps"
 description: "Applies the \"Outline Fill Caps\" caption style (untouched full-frame footage; tall condensed all-caps white captions that appear as hollow outlines and fill solid white word by word as each word is spoken, in one to three centred lines that sit under the chin on speakers and mid-frame on B-roll, plain hard cuts) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants outline text, fill-as-you-speak, condensed uppercase or karaoke-free read-ahead captions."
 ---
 

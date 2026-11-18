@@ -1,5 +1,5 @@
 ---
-name: 72-graphics-step-ink-scroll
+name: "72-graphics-step-ink-scroll"
 description: "Makes the \"Step Ink Scroll\" animated graphic (three oversized, ink-worn capital headlines on crumpled paper that snap sideways in five hard steps to reveal their endings) from the user's own three headlines, as a finished 16:9 video. Use when the user wants a stacked headline reveal, ticker-style title pan, distressed typewriter-ink headline sequence, or old-paper title cards."
 ---
 

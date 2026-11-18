@@ -1,5 +1,5 @@
 ---
-name: 80-graphics-flare-sweep-title
+name: "80-graphics-flare-sweep-title"
 description: "Makes the \"Flare Sweep Title\" animated graphic (one bold glowing headline typed on letter by letter over a dark stage, smeared and lit by a sunburst flare at its leading edge, held, then flared again and faded out) from the user's own text and colours, as a finished 16:9 video. Use when the user wants a glowing title, neon headline reveal, light-streak text intro, flare title card or blurred shining text opener."
 ---
 

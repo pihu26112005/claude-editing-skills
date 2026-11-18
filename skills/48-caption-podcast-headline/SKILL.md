@@ -1,5 +1,5 @@
 ---
-name: 48-caption-podcast-headline
+name: "48-caption-podcast-headline"
 description: "Applies the \"Podcast Headline\" motion-graphics caption style (untouched full-frame footage, a bold two-line sans headline at the top with white lettering on line 1 and black lettering on a white box on line 2, clean bold word-by-word captions low in the frame, black-on-white box captions on busy shots, plain hard cuts) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a podcast-clip, headline-on-white-box, reel title, bold sans caption or highlight-box caption look."
 ---
 

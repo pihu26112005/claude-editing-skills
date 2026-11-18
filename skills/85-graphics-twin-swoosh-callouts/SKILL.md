@@ -1,5 +1,5 @@
 ---
-name: 85-graphics-twin-swoosh-callouts
+name: "85-graphics-twin-swoosh-callouts"
 description: "Makes the \"Twin Swoosh Callouts\" animated graphic (a glowing portrait image card on a dark stage that a camera pushes in on, then two glowing brush swooshes sweep out to the right and each ends in a short glowing label) from the user's own image, two labels and colours, as a finished 16:9 video. Use when the user wants a two-callout image card, glowing swoosh labels, neon brush-stroke annotations, or a portrait photo with two glowing tags."
 ---
 

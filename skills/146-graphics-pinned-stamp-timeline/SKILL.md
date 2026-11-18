@@ -1,5 +1,5 @@
 ---
-name: 146-graphics-pinned-stamp-timeline
+name: "146-graphics-pinned-stamp-timeline"
 description: "Makes the \"Pinned Stamp Timeline\" animated graphic (a paper ruler that scrolls between three dated picture stamps with counted tape labels, a pull-back with a bracket measuring the gap, a torn note card and a horizontal ruler recap) from the user's own events, dates and pictures, as a finished 9:16 video. Use when the user wants a history timeline, \"which is closer\" comparison, date-gap explainer, dated sticker timeline or years-later reveal."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: 65-graphics-prompt-pill-reveal
+name: "65-graphics-prompt-pill-reveal"
 description: "Makes the \"Prompt Pill Reveal\" animated graphic (a brand name in a white pill that grows into an AI prompt box, types the user's request, is sent, shrinks into a coloured \"working\" pill with a spinning star, collapses to an icon and bursts open into a full result image with a small caption) from the user's own text, colour and image, as a finished 16:9 video. Use when the user wants an AI prompt demo, chat-box intro, prompt-to-result product teaser, app generator animation or typed-prompt reveal."
 ---
 

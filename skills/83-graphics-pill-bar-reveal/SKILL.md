@@ -1,5 +1,5 @@
 ---
-name: 83-graphics-pill-bar-reveal
+name: "83-graphics-pill-bar-reveal"
 description: "Makes the \"Pill Bar Reveal\" animated graphic (a round search-icon bubble rises on a soft radial-gradient background, stretches into a pill-shaped search bar, the user's text fades in word by word, then the bar swells and shrinks away) from the user's own text and colours, as a finished 16:9 video. Use when the user wants an expanding search bar, search-box intro, icon-to-bar reveal or query-typing title on a pastel gradient."
 ---
 

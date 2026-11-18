@@ -1,5 +1,5 @@
 ---
-name: 110-graphics-cursor-morph-widget
+name: "110-graphics-cursor-morph-widget"
 description: "Makes the \"Cursor Morph Widget\" animated graphic (one black-and-white UI shape that never cuts: a cursor clicks and drags it through a button, loader, check, island, music player, scrubber, volume slider, toggle, tab bar, chart, command palette and toast, then back to the button so it loops) from the user's own labels and one accent colour, as a finished 1:1 video. Use when the user wants a UI morph, product-UI loop, app micro-interaction showcase, cursor-driven component tour or one-element UI animation."
 ---
 

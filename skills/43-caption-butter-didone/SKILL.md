@@ -1,5 +1,5 @@
 ---
-name: 43-caption-butter-didone
+name: "43-caption-butter-didone"
 description: "Applies the \"Butter Didone\" caption style (untouched full-frame footage; pale butter-yellow high-contrast Didone type; a small lowercase caption block that pops in word by word near the bottom with one CAPITAL keyword per phrase; and a giant edge-to-edge capital version of the key spoken word slamming in across the top, with hard pops and hard cuts only) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a fashion-magazine, Didone, serif, pale yellow, giant keyword or word-by-word caption look."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: 22-style-glitch-relay
+name: "22-style-glitch-relay"
 description: "Applies the \"Glitch Relay\" motion-graphics style (live full-frame footage, glowing lavender word-by-word relay captions in the lower third, a stacked glowing title that snaps up with a white lightning crack, and mirror-fold zoom-blur chroma-split glitch transitions at every cut) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants neon, glitch, lavender glow captions, word-by-word captions, a lightning title, or a glitchy transition look."
 ---
 

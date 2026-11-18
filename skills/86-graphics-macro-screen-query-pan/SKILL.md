@@ -1,5 +1,5 @@
 ---
-name: 86-graphics-macro-screen-query-pan
+name: "86-graphics-macro-screen-query-pan"
 description: "Makes the \"Macro Screen Query Pan\" animated graphic (a generic search page seen up close on a pixel-grid monitor: the camera zooms into a rounded search bar, a query types in, then the camera pans along the bar to its magnifier icon and a cursor clicks toward it) from the user's own query text, title word and colours, as a finished 16:9 video. Use when the user wants a search-bar typing animation, query reveal, keyword hook, topic reveal on a screen, or a close-up monitor search intro."
 ---
 

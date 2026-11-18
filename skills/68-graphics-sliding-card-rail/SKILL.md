@@ -1,5 +1,5 @@
 ---
-name: 68-graphics-sliding-card-rail
+name: "68-graphics-sliding-card-rail"
 description: "Makes the \"Sliding Card Rail\" animated graphic (five image cards on a tilted, perspective rail: the camera flies in from far away, then glides card to card along a drawn-on accent line with a white knob and label under each) from the user's own five labels, five images and accent colour, as a finished 9:16 video. Use when the user wants a 5-step timeline, step-by-step process rail, perspective card carousel, roadmap or progress-line explainer."
 ---
 

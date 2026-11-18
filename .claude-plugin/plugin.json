@@ -22,5 +22,7 @@
     "video-editing",
     "video-prompts"
   ],
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "supportUrl": "https://github.com/pihu26112005/claude-editing-skills/issues",
+  "documentationUrl": "https://motion-graphics-skills.vercel.app/setup/"
 }

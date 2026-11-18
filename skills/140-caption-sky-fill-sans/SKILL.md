@@ -1,5 +1,5 @@
 ---
-name: 140-caption-sky-fill-sans
+name: "140-caption-sky-fill-sans"
 description: "Applies the \"Sky Fill Sans\" caption style (untouched full-frame footage; every phrase is a few small bold white sans words fading in one by one around one giant heavy sans keyword whose letters are filled with a soft drifting cloud-and-sky texture, centred across the chest or in a top or low lane) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants photo-filled letters, textured giant keyword, bold sans captions, or a small-words-plus-huge-word look."
 ---
 

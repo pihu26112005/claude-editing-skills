@@ -1,5 +1,5 @@
 ---
-name: 42-caption-gradient-stack
+name: "42-caption-gradient-stack"
 description: "Applies the \"Gradient Stack\" motion-graphics caption style (untouched full-frame footage, small tight white bold words building a line with a soft shadow, and one giant extra-bold keyword per phrase with a bright-to-dark colour gradient that blurs in right under it, phrases zigzagging between the top and middle of the frame) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants big colourful keyword captions, bold sans captions, gradient words or a stacked caption look."
 ---
 

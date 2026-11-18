@@ -1,5 +1,5 @@
 ---
-name: 67-graphics-desk-gadget-tour
+name: "67-graphics-desk-gadget-tour"
 description: "Makes the \"Desk Gadget Tour\" animated graphic (a title typed on a handheld gadget on a grid desk, a full camera whirl, then a two-line headline typed on the paper) from the user's own text and colours, as a finished 9:16 video. Use when the user wants a gadget screen title reveal, desk flat-lay intro, typed headline over graph paper, or a vertical app or product teaser opener."
 ---
 

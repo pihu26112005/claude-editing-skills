@@ -1,5 +1,5 @@
 ---
-name: 44-caption-neon-echo
+name: "44-caption-neon-echo"
 description: "Applies the \"Neon Echo\" caption style (untouched full-frame footage, small bold white word-by-word captions, lime italic glowing keywords, a giant scan-lined neon slab for one payoff word, an outline title that slides across the top and a stack of outline echoes behind the speaker) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants neon, lime, glow, bold pop captions or outline text."
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: 139-caption-full-bleed-caps
+name: "139-caption-full-bleed-caps"
 description: "Applies the \"Full Bleed Caps\" caption style (untouched full-frame footage; every phrase gets one giant ultra-heavy condensed capital keyword in a single flat accent colour spanning nearly the full width at the top of the frame and tucked behind the speaker's hair, plus a tiny clean sans line that fades in word by word with the keyword repeated in bold accent) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants huge bold keyword headlines, edge-to-edge condensed caps behind the head, or a whisper-line plus giant-word creator look."
 ---
 

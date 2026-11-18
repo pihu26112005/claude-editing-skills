@@ -1,5 +1,5 @@
 ---
-name: 144-caption-ring-chip-script
+name: "144-caption-ring-chip-script"
 description: "Applies the \"Ring Chip Script\" caption style (untouched full-frame footage; every phrase is one low line of small hand-lettered white words with a soft shadow, the key word on a solid rounded chip in bold marker lettering, and one other word circled by a loose hand-drawn ring) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants handwritten captions, highlighted-word chips, hand-circled words or a creator notes caption look."
 ---
 

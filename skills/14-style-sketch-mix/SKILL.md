@@ -1,5 +1,5 @@
 ---
-name: 14-style-sketch-mix
+name: "14-style-sketch-mix"
 description: "Applies the \"Sketch Mix\" motion-graphics style (a fat white keyword inside a loose pencil-drawn ellipse, handwritten and bold word-by-word captions, the speaker kept talking in a round bubble over B-roll, a cream paper page with a hand-circled phrase) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a sketchbook, pencil-scribble, hand-drawn, notebook or creator-notes look with handwriting captions."
 ---
 

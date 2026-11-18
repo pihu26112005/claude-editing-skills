@@ -1,5 +1,5 @@
 ---
-name: 64-graphics-tabletop-card-fan
+name: "64-graphics-tabletop-card-fan"
 description: "Makes the \"Tabletop Card Fan\" animated graphic (one card slides onto a table and fans into five, then a tilting camera tours them while three captions type onto the table) from the user's own captions and colours, as a finished 16:9 video. Use when the user wants a card spread, tarot-style reveal, three-step explainer on playing cards, or a tabletop camera tour with captions."
 ---
 

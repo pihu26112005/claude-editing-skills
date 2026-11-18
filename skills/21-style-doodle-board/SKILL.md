@@ -1,5 +1,5 @@
 ---
-name: 21-style-doodle-board
+name: "21-style-doodle-board"
 description: "Applies the \"Doodle Board\" motion-graphics style (a boiling white hand-drawn outline around the speaker with line doodles and one handwritten word, small tilted paper word tags stuck on one by one, a soft pink bar chart growing behind the cut-out speaker, sketchy white frames on B-roll, big handwritten captions with a pink marker key word) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a playful, hand-drawn, doodle, notebook-margin, friendly creator or explainer look."
 ---
 

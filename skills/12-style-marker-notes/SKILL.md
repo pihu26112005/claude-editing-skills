@@ -1,5 +1,5 @@
 ---
-name: 12-style-marker-notes
+name: "12-style-marker-notes"
 description: "Applies the \"Marker Notes\" motion-graphics style (yellow felt-tip marker keyword band, word-by-word captions with a yellow active-word pill, a white to-do card that ticks off steps, and a cream camera-roll page holding the footage in rounded cards) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a notes-app, marker-pen, to-do list, creator-style caption look for talking-head, B-roll or product videos."
 ---
 

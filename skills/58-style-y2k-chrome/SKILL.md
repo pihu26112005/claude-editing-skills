@@ -1,5 +1,5 @@
 ---
-name: 58-style-y2k-chrome
+name: "58-style-y2k-chrome"
 description: "Applies the \"Y2K Chrome\" motion-graphics style (icy-blue early-2000s web look with liquid-chrome bubble lettering, four-point sparkles, holographic pill captions, retro OS pop-up windows around B-roll, and a paper poster border on speaker shots) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants Y2K, chrome, holographic, sparkle, retro desktop-window or icy-blue pop looks."
 ---
 

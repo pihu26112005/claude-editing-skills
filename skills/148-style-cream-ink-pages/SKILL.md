@@ -1,5 +1,5 @@
 ---
-name: 148-style-cream-ink-pages
+name: "148-style-cream-ink-pages"
 description: "Applies the \"Cream Ink Pages\" motion-graphics style (full-frame footage under bold white word-by-word captions with an amber label-box key word and small drawn stickers, cutting to warm cream paper pages that hold the footage in a rounded card beside plum ink captions, a rolling step number over a gradient progress bar, and a traced scalloped badge) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a cream paper, step-counter, list-explainer, label-caption or creator-notes look."
 ---
 

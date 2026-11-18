@@ -1,5 +1,5 @@
 ---
-name: 152-style-mosaic-gloss
+name: "152-style-mosaic-gloss"
 description: "Applies the \"Mosaic Gloss\" motion-graphics style (a soft gradient page with grid and light streaks, footage in a big rounded card or full-bleed under cartoon clouds, pixel-mosaic wipes on every cut, small white whisper words with one big glowing gradient keyword typed in, a glossy pill slot with a ball knob, a rounded speech-bubble caption, frosted icon tiles) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a glossy, bubbly, pixel-transition, cloud, pastel-gradient creator look."
 ---
 # Mosaic Gloss

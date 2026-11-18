@@ -1,5 +1,5 @@
 ---
-name: 28-style-cocoa-grid-cards
+name: "28-style-cocoa-grid-cards"
 description: "Applies the \"Cocoa Grid Cards\" motion-graphics style (the footage as a rounded card on a warm graph-paper page that rises in, swells to full frame, slides aside for a dark cocoa text page with a typed white topic chip, and settles back into a card, with every phrase typed word by word inside a brown label bar) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a graph-paper, cocoa, rounded-card, label-bar caption, clean editorial explainer look."
 ---
 

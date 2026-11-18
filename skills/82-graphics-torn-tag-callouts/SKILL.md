@@ -1,5 +1,5 @@
 ---
-name: 82-graphics-torn-tag-callouts
+name: "82-graphics-torn-tag-callouts"
 description: "Makes the \"Torn Tag Callouts\" animated graphic (a glowing striped two-word label rises on a dark violet glow, tears in two along a zigzag crack, the halves tilt apart and change colour, and each half gets a dashed looping leader line with a bold italic callout) from the user's own words and colours, as a finished 16:9 video. Use when the user wants a split label, torn banner, two-word breakup title, glowing striped tag, or callout leader-line intro."
 ---
 

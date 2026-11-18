@@ -1,5 +1,5 @@
 ---
-name: 136-caption-pixel-resolve-serif
+name: "136-caption-pixel-resolve-serif"
 description: "Applies the \"Pixel Resolve Serif\" caption style (untouched full-frame footage; tiny white serif whisper words that build word by word beside towering stretched high-contrast capitals that resolve out of a pixel mosaic, bend into arches, waves and slants, slip behind the speaker's head, and end on one giant mixed-case word) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants Didone, fashion-editorial, tall serif keyword, mosaic-reveal or behind-the-head title captions."
 ---
 

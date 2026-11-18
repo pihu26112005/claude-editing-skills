@@ -1,5 +1,5 @@
 ---
-name: 61-style-ornate-frame
+name: "61-style-ornate-frame"
 description: "Applies the \"Ornate Frame\" motion-graphics style (the footage shrinks into a pointed-arch window on ivory paper inside an engraved gold frame with a beaded line, vine corners and oxblood rosettes; black-lacquer plates carry gold small-caps titles, ivory serif captions, Roman-numeral medallions and a scroll ribbon; gold glints sweep over the frame on cuts) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a Victorian, gothic, engraved, gold-leaf, ornamental-border, storybook or antique-poster look."
 ---
 

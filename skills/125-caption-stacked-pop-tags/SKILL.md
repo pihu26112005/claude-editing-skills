@@ -1,5 +1,5 @@
 ---
-name: 125-caption-stacked-pop-tags
+name: "125-caption-stacked-pop-tags"
 description: "Applies the \"Stacked Pop Tags\" caption style (untouched full-frame footage; every phrase is a small stack of tiny white wide-sans helper words with one big condensed italic keyword in a vivid accent colour that slides in beside them, hard-cut between phrases, no boxes and no effects on cuts) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold condensed keyword captions, tiny stacked helper words, creator-style pop captions or a one-accent-word caption look."
 ---
 

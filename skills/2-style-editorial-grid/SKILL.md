@@ -1,5 +1,5 @@
 ---
-name: 2-style-editorial-grid
+name: "2-style-editorial-grid"
 description: "Applies the \"Editorial Grid\" motion-graphics style (footage in sharp cards on a white page that settle, swell and split into an asymmetric grid, monospaced uppercase captions typed word by word, a letter-spaced keyword, a bold black title word) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a clean, minimal, white, editorial, Swiss or gallery-grid look with typewriter captions."
 ---
 

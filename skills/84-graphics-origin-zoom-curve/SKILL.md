@@ -1,5 +1,5 @@
 ---
-name: 84-graphics-origin-zoom-curve
+name: "84-graphics-origin-zoom-curve"
 description: "Makes the \"Origin Zoom Curve\" animated graphic (dashed axes seen close up, a jagged glowing growth line drawn from the origin while the camera pulls back to reveal a grid, a title and two axis labels) from the user's own text and colour, as a finished 9:16 video. Use when the user wants a growth chart, exponential line graph, hockey-stick curve, dark-mode trend chart or explosive-growth explainer."
 ---
 

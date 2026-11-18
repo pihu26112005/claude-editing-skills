@@ -1,5 +1,5 @@
 ---
-name: 37-caption-chrome-tier
+name: "37-caption-chrome-tier"
 description: "Applies the \"Chrome Tier\" motion-graphics style (untouched full-frame footage with two-tier captions: small light white sans words and large heavy italic keywords filled with a glossy teal-silver chrome gradient, stepping down the lower frame in a staggered left/right stack, with a one-line headline at the top on opening) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants metallic, chrome, glossy, big-italic-keyword, modern sans caption looks."
 ---
 

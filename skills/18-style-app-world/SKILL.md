@@ -1,5 +1,5 @@
 ---
-name: 18-style-app-world
+name: "18-style-app-world"
 description: "Applies the \"App World\" motion-graphics style (a phone mock-up sliding in beside the speaker, a frosted glass checklist that ticks off steps, a white app dialog that drops in and types the user's words, a dark app screen with a live progress timer behind the cut-out speaker, bold white captions with one soft-pink word) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants an app UI, product demo, SaaS, tech-tool, workflow or \"how I work\" look."
 ---
 
