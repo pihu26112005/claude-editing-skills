@@ -1,6 +1,6 @@
 ---
 name: 159-photo-painted-portrait
-description: Step 1 of the Motion Photos pair. Turns one ordinary photo into the exact prompt (and, when an image tool is available, the image) for a dramatic, textured oil-painting version of it, keeping the same people, faces, pose, clothing and composition. Its output is the input of 160-photo-living-painting. Use when the user wants their photo painted as a moody oil painting or wants to make a motion photo or living painting.
+description: "Step 1 of the Motion Photos pair. Turns one ordinary photo into the exact prompt (and, when an image tool is available, the image) for a dramatic, textured oil-painting version of it, keeping the same people, faces, pose, clothing and composition. Its output is the input of 160-photo-living-painting. Use when the user wants their photo painted as a moody oil painting or wants to make a motion photo or living painting."
 ---
 
 # 159 · Painted Portrait (Motion Photos, step 1)

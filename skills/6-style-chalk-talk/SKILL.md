@@ -1,6 +1,6 @@
 ---
 name: 6-style-chalk-talk
-description: Applies the "Chalk Talk" motion-graphics style (white chalk circles drawn around the speaker, yellow sketchy titles written then filled, handwritten captions with a dark tag on the spoken word, dry charcoal brush-stroke wipes, footage in a yellow chalk-bordered card on a chalkboard, a cream paper quote page to close) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a chalkboard, classroom, teacher, hand-drawn or educational explainer look.
+description: "Applies the \"Chalk Talk\" motion-graphics style (white chalk circles drawn around the speaker, yellow sketchy titles written then filled, handwritten captions with a dark tag on the spoken word, dry charcoal brush-stroke wipes, footage in a yellow chalk-bordered card on a chalkboard, a cream paper quote page to close) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a chalkboard, classroom, teacher, hand-drawn or educational explainer look."
 ---
 
 # Chalk Talk

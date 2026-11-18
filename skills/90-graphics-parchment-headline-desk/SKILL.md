@@ -1,6 +1,6 @@
 ---
 name: 90-graphics-parchment-headline-desk
-description: Makes the "Parchment Headline Desk" animated graphic (a dated tag, a two-line headline and a detail paragraph typing onto grid parchment, a cut-out portrait rising from the corner, a rule with a masthead line, then marker highlights sweeping over the text) from the user's own text and portrait, as a finished 16:9 video. Use when the user wants a news-style headline card, vintage story intro, parchment explainer, highlighted headline reveal or character intro on old graph paper.
+description: "Makes the \"Parchment Headline Desk\" animated graphic (a dated tag, a two-line headline and a detail paragraph typing onto grid parchment, a cut-out portrait rising from the corner, a rule with a masthead line, then marker highlights sweeping over the text) from the user's own text and portrait, as a finished 16:9 video. Use when the user wants a news-style headline card, vintage story intro, parchment explainer, highlighted headline reveal or character intro on old graph paper."
 ---
 
 # 90 · Parchment Headline Desk

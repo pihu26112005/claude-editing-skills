@@ -1,6 +1,6 @@
 ---
 name: 150-style-amber-widget-pipes
-description: Applies the "Amber Widget Pipes" motion-graphics style (frosted pills that resolve from pixel blocks behind the speaker, white widget cards with growing charts and flipping switches, tick tiles, a tinted gradient page that the footage shrinks into as a rounded window, a glowing tube that forks into two branches, small white captions with one accent word, a glowing giant-word closing title) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a soft app-UI, widget, dashboard, product-explainer or pastel gradient look.
+description: "Applies the \"Amber Widget Pipes\" motion-graphics style (frosted pills that resolve from pixel blocks behind the speaker, white widget cards with growing charts and flipping switches, tick tiles, a tinted gradient page that the footage shrinks into as a rounded window, a glowing tube that forks into two branches, small white captions with one accent word, a glowing giant-word closing title) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a soft app-UI, widget, dashboard, product-explainer or pastel gradient look."
 ---
 
 # 150-style-amber-widget-pipes — Amber Widget Pipes

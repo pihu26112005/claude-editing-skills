@@ -1,6 +1,6 @@
 ---
 name: 33-style-bauhaus-pop
-description: Applies the "Bauhaus Pop" motion-graphics style (flat orange, cobalt, mustard and cream poster colours; a condensed cream banner stamp; cream label-bar captions with the newest word in orange; black-edged footage cards with a retracting extruded shadow; a falling curtain of circles and bars to a blue shape wall) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a bold poster, geometric, Bauhaus, colour-block or label-caption look.
+description: "Applies the \"Bauhaus Pop\" motion-graphics style (flat orange, cobalt, mustard and cream poster colours; a condensed cream banner stamp; cream label-bar captions with the newest word in orange; black-edged footage cards with a retracting extruded shadow; a falling curtain of circles and bars to a blue shape wall) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a bold poster, geometric, Bauhaus, colour-block or label-caption look."
 ---
 
 # 33-style-bauhaus-pop — Bauhaus Pop

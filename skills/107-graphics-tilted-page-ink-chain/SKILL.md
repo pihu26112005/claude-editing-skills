@@ -1,6 +1,6 @@
 ---
 name: 107-graphics-tilted-page-ink-chain
-description: Makes the "Tilted Page Ink Chain" animated graphic (three paragraphs on a tilted paper page, three key words circled in hand-drawn ink and linked by curved arrows while the camera glides word to word) from the user's own text, as a finished 9:16 video. Use when the user wants a circled-keyword explainer, highlight-the-key-words text reel, ink annotation chain or marked-up page animation.
+description: "Makes the \"Tilted Page Ink Chain\" animated graphic (three paragraphs on a tilted paper page, three key words circled in hand-drawn ink and linked by curved arrows while the camera glides word to word) from the user's own text, as a finished 9:16 video. Use when the user wants a circled-keyword explainer, highlight-the-key-words text reel, ink annotation chain or marked-up page animation."
 ---
 
 # 107 · Tilted Page Ink Chain

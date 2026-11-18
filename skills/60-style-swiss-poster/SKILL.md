@@ -1,6 +1,6 @@
 ---
 name: 60-style-swiss-poster
-description: Applies the "Swiss Poster" motion-graphics style (strict six-column grid with hairlines and dots, footage locked into grid modules on a Swiss-red or warm-paper field, huge tight flush-left bold grotesk captions, giant step numerals, one red circle, and a left-to-right column swap on every cut) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a Swiss, International Typographic, poster, red grid, Helvetica-style or minimal bold-type look.
+description: "Applies the \"Swiss Poster\" motion-graphics style (strict six-column grid with hairlines and dots, footage locked into grid modules on a Swiss-red or warm-paper field, huge tight flush-left bold grotesk captions, giant step numerals, one red circle, and a left-to-right column swap on every cut) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a Swiss, International Typographic, poster, red grid, Helvetica-style or minimal bold-type look."
 ---
 
 # 60-style-swiss-poster — Swiss Poster

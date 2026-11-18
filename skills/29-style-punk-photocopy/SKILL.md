@@ -1,6 +1,6 @@
 ---
 name: 29-style-punk-photocopy
-description: Applies the "Punk Photocopy" motion-graphics style (live full-frame footage, acid-yellow brush strokes and torn yellow paper wipes, a black-plate halftone speech-bubble poster, white deckle-edge photo cards, and hard black caption bars with white slab-serif words and one big yellow keyword) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a punk, zine, photocopy, cut-and-paste, black-and-yellow, DIY or gig-poster look.
+description: "Applies the \"Punk Photocopy\" motion-graphics style (live full-frame footage, acid-yellow brush strokes and torn yellow paper wipes, a black-plate halftone speech-bubble poster, white deckle-edge photo cards, and hard black caption bars with white slab-serif words and one big yellow keyword) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a punk, zine, photocopy, cut-and-paste, black-and-yellow, DIY or gig-poster look."
 ---
 
 # 29-style-punk-photocopy — Punk Photocopy

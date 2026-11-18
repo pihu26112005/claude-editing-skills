@@ -1,6 +1,6 @@
 ---
 name: 130-caption-whisper-blob
-description: Applies the "Whisper Blob" caption style (untouched full-frame footage; every phrase split into a tiny hand-brushed white whisper line and one fat rounded saturated keyword on a solid dark slab that rises in, bent into an arch or wave, hopping between top and bottom lanes to stay off the face) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants chunky bubble keywords, hand-written small words, creator-style bold captions or colourful pop captions.
+description: "Applies the \"Whisper Blob\" caption style (untouched full-frame footage; every phrase split into a tiny hand-brushed white whisper line and one fat rounded saturated keyword on a solid dark slab that rises in, bent into an arch or wave, hopping between top and bottom lanes to stay off the face) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants chunky bubble keywords, hand-written small words, creator-style bold captions or colourful pop captions."
 ---
 
 # 130-caption-whisper-blob — Whisper Blob

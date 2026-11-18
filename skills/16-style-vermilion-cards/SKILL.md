@@ -1,6 +1,6 @@
 ---
 name: 16-style-vermilion-cards
-description: Applies the "Vermilion Cards" motion-graphics style (hot orange-red and saffron pages, footage in sharp cards with hard black block shadows that drop in on cuts, full-frame footage between two orange bands carrying a giant condensed cream title, cream label captions with an orange newest word, a black slanted wedge wipe) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a bold orange, poster-like, hard-shadow card, sticker-label caption or punchy creator look.
+description: "Applies the \"Vermilion Cards\" motion-graphics style (hot orange-red and saffron pages, footage in sharp cards with hard black block shadows that drop in on cuts, full-frame footage between two orange bands carrying a giant condensed cream title, cream label captions with an orange newest word, a black slanted wedge wipe) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a bold orange, poster-like, hard-shadow card, sticker-label caption or punchy creator look."
 ---
 
 # Vermilion Cards

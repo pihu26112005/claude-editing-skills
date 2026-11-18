@@ -1,6 +1,6 @@
 ---
 name: 128-caption-ghost-underline
-description: Applies the "Ghost Underline" caption style (untouched full-frame footage, mid-frame captions that build word by word as ghost-grey words firming up to white heavy bold sans, one slim serif italic keyword per phrase with a thin two-colour gradient underline, hard-cut chunks, optional italic title) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold word-by-word captions, serif italic keywords, underlined highlights or a clean modern caption look.
+description: "Applies the \"Ghost Underline\" caption style (untouched full-frame footage, mid-frame captions that build word by word as ghost-grey words firming up to white heavy bold sans, one slim serif italic keyword per phrase with a thin two-colour gradient underline, hard-cut chunks, optional italic title) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold word-by-word captions, serif italic keywords, underlined highlights or a clean modern caption look."
 ---
 
 # 128-caption-ghost-underline — Ghost Underline

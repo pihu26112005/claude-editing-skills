@@ -1,6 +1,6 @@
 ---
 name: 77-graphics-pop-up-post-card
-description: Makes the "Pop-up Post Card" animated graphic (a generic social post card that rises on black, types its text word by word, ticks a like counter with a burst, then drops away) from the user's own name, handle, text, avatar and counts, as a finished 16:9 video. Use when the user wants an animated post mockup, social post card, engagement counter animation, like-burst card or fake-feed post intro.
+description: "Makes the \"Pop-up Post Card\" animated graphic (a generic social post card that rises on black, types its text word by word, ticks a like counter with a burst, then drops away) from the user's own name, handle, text, avatar and counts, as a finished 16:9 video. Use when the user wants an animated post mockup, social post card, engagement counter animation, like-burst card or fake-feed post intro."
 ---
 
 # 77 · Pop-up Post Card

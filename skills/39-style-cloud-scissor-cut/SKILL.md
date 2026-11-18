@@ -1,6 +1,6 @@
 ---
 name: 39-style-cloud-scissor-cut
-description: Applies the "Cloud Scissor Cut" motion-graphics style (a powder-blue torn-paper cloud with pencil doodles dropping from the top with a heavy black title, tiny slanted hand-lettered white captions, then a rising frosted paper band with a scissors-in-hand snip that turns captions into bold white block type) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a paper-craft, DIY, doodle, scissors, zine or frosted-paper look.
+description: "Applies the \"Cloud Scissor Cut\" motion-graphics style (a powder-blue torn-paper cloud with pencil doodles dropping from the top with a heavy black title, tiny slanted hand-lettered white captions, then a rising frosted paper band with a scissors-in-hand snip that turns captions into bold white block type) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a paper-craft, DIY, doodle, scissors, zine or frosted-paper look."
 ---
 
 # 39-style-cloud-scissor-cut — Cloud Scissor Cut

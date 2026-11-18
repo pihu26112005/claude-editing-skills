@@ -1,6 +1,6 @@
 ---
 name: 23-caption-serif-staircase
-description: Applies the "Serif Staircase" motion-graphics style (untouched full-frame footage, a slightly tilted white italic serif title that rises in, captions that build word by word in a staircase of white serif words and yellow italic keywords, and black-on-white label-box captions on bright or busy shots, with plain hard cuts) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants an editorial, serif, italic, yellow-highlight or clean caption look.
+description: "Applies the \"Serif Staircase\" motion-graphics style (untouched full-frame footage, a slightly tilted white italic serif title that rises in, captions that build word by word in a staircase of white serif words and yellow italic keywords, and black-on-white label-box captions on bright or busy shots, with plain hard cuts) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants an editorial, serif, italic, yellow-highlight or clean caption look."
 ---
 
 # 23-caption-serif-staircase — Serif Staircase

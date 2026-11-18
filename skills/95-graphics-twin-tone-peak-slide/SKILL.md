@@ -1,6 +1,6 @@
 ---
 name: 95-graphics-twin-tone-peak-slide
-description: Makes the "Twin-Tone Peak Slide" animated graphic (a glass orb on a dome, a glowing area chart that climbs to a peak, a marker line, then a second-colour fall with a two-word label) from the user's own text and colours, as a finished 9:16 video. Use when the user wants a rise-and-fall chart, peak and decline graphic, glowing area chart reveal, trend turning-point animation or vertical data teaser on black.
+description: "Makes the \"Twin-Tone Peak Slide\" animated graphic (a glass orb on a dome, a glowing area chart that climbs to a peak, a marker line, then a second-colour fall with a two-word label) from the user's own text and colours, as a finished 9:16 video. Use when the user wants a rise-and-fall chart, peak and decline graphic, glowing area chart reveal, trend turning-point animation or vertical data teaser on black."
 ---
 
 # 95 · Twin-Tone Peak Slide

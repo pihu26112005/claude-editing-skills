@@ -1,6 +1,6 @@
 ---
 name: 75-graphics-clipped-photo-desk
-description: Makes the "Clipped Photo Desk" animated graphic (a dotted-paper desk seen from above; the camera eases in as pens, paper cards, a paper-clipped tape label, a colour strip and a tilted photo slide onto it, then two text lines type on) from the user's own text, photo and colours, as a finished 9:16 video. Use when the user wants a desk-top title card, clipped photo with a caption strip, sticky-note headline, polaroid-on-desk reel intro or stationery scrapbook title.
+description: "Makes the \"Clipped Photo Desk\" animated graphic (a dotted-paper desk seen from above; the camera eases in as pens, paper cards, a paper-clipped tape label, a colour strip and a tilted photo slide onto it, then two text lines type on) from the user's own text, photo and colours, as a finished 9:16 video. Use when the user wants a desk-top title card, clipped photo with a caption strip, sticky-note headline, polaroid-on-desk reel intro or stationery scrapbook title."
 ---
 
 # 75 · Clipped Photo Desk

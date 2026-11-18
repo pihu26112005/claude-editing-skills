@@ -1,6 +1,6 @@
 ---
 name: 135-caption-gilt-crest-serif
-description: Applies the "Gilt Crest Serif" caption style (untouched full-frame footage; every phrase is a tiny condensed serif line fading in word by word plus one giant heavy high-contrast serif keyword in a soft two-tone metallic gradient that rises tucked behind the top of the speaker's head or in a lower lane) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants elegant luxe serif captions, a big keyword behind the head, gold or gradient headline words, or a whisper-line plus giant-word look.
+description: "Applies the \"Gilt Crest Serif\" caption style (untouched full-frame footage; every phrase is a tiny condensed serif line fading in word by word plus one giant heavy high-contrast serif keyword in a soft two-tone metallic gradient that rises tucked behind the top of the speaker's head or in a lower lane) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants elegant luxe serif captions, a big keyword behind the head, gold or gradient headline words, or a whisper-line plus giant-word look."
 ---
 
 # 135-caption-gilt-crest-serif — Gilt Crest Serif

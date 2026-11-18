@@ -1,6 +1,6 @@
 ---
 name: 143-caption-sash-orbit-plate
-description: Applies the "Sash Orbit Plate" motion-graphics caption style (untouched full-frame footage; a glossy curved sash that orbits the speaker, passing behind the head at the top and over the chest at the bottom, carrying a tracked uppercase title on each half; plus small rounded dark caption plates with a thin accent border where each word brightens as it is spoken and one word is coloured) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a wrap-around banner title, a hero sash opener, plate captions with one accent word, or a premium creator caption look.
+description: "Applies the \"Sash Orbit Plate\" motion-graphics caption style (untouched full-frame footage; a glossy curved sash that orbits the speaker, passing behind the head at the top and over the chest at the bottom, carrying a tracked uppercase title on each half; plus small rounded dark caption plates with a thin accent border where each word brightens as it is spoken and one word is coloured) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a wrap-around banner title, a hero sash opener, plate captions with one accent word, or a premium creator caption look."
 ---
 
 # 143-caption-sash-orbit-plate — Sash Orbit Plate

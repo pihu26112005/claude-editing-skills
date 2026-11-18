@@ -1,6 +1,6 @@
 ---
 name: 117-caption-tall-serif-stack
-description: Applies the "Tall Serif Stack" motion-graphics caption style (untouched full-frame footage, a block of tall narrow high-contrast serif capitals in one saturated colour that cuts in above the speaker with a soft drifting sheen, and a tiny bold white serif caption that builds word by word just under the block) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a magazine-cover, tall serif, stacked headline, red-title or bold editorial caption look.
+description: "Applies the \"Tall Serif Stack\" motion-graphics caption style (untouched full-frame footage, a block of tall narrow high-contrast serif capitals in one saturated colour that cuts in above the speaker with a soft drifting sheen, and a tiny bold white serif caption that builds word by word just under the block) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a magazine-cover, tall serif, stacked headline, red-title or bold editorial caption look."
 ---
 
 # 117-caption-tall-serif-stack — Tall Serif Stack

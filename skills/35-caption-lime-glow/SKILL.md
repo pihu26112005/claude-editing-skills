@@ -1,6 +1,6 @@
 ---
 name: 35-caption-lime-glow
-description: Applies the "Lime Glow" caption style (full-frame untouched footage, captions that pop in as white semibold plain words over one heavy slanted lime keyword with a green glow on a soft dark floor, plus a giant outlined slanted title with a red and cyan fringe that slides across the top) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold neon-lime keyword captions, tech or fitness reel captions, or a glowing outlined headline.
+description: "Applies the \"Lime Glow\" caption style (full-frame untouched footage, captions that pop in as white semibold plain words over one heavy slanted lime keyword with a green glow on a soft dark floor, plus a giant outlined slanted title with a red and cyan fringe that slides across the top) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants bold neon-lime keyword captions, tech or fitness reel captions, or a glowing outlined headline."
 ---
 
 # 35-caption-lime-glow — Lime Glow

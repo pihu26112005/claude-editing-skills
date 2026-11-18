@@ -1,6 +1,6 @@
 ---
 name: 24-style-mist-rise
-description: Applies the "Mist Rise" motion-graphics style (white serif captions that fade in word by word with italic emphasis, long soft dissolves between shots, and a feathered band of B-roll that rises like mist from the bottom while the speaker lifts upward) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants elegant serif captions, soft cross-dissolves, a misty rising B-roll split, or a calm editorial talking-head look.
+description: "Applies the \"Mist Rise\" motion-graphics style (white serif captions that fade in word by word with italic emphasis, long soft dissolves between shots, and a feathered band of B-roll that rises like mist from the bottom while the speaker lifts upward) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants elegant serif captions, soft cross-dissolves, a misty rising B-roll split, or a calm editorial talking-head look."
 ---
 
 # 24 · Mist Rise

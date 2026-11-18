@@ -1,6 +1,6 @@
 ---
 name: 108-graphics-highlight-snippet-flicker
-description: Makes the "Highlight Snippet Flicker" animated graphic (one marker-highlighted keyword that stays fixed while nine article snippets flip past at about ten cuts a second on crumpled paper, with streaked edges and blurred body text) from the user's own keyword and sentences, as a finished 9:16 video. Use when the user wants a keyword flip-through, highlighted term montage, headline snippet flicker or "everyone is talking about X" effect.
+description: "Makes the \"Highlight Snippet Flicker\" animated graphic (one marker-highlighted keyword that stays fixed while nine article snippets flip past at about ten cuts a second on crumpled paper, with streaked edges and blurred body text) from the user's own keyword and sentences, as a finished 9:16 video. Use when the user wants a keyword flip-through, highlighted term montage, headline snippet flicker or \"everyone is talking about X\" effect."
 ---
 
 # 108 · Highlight Snippet Flicker

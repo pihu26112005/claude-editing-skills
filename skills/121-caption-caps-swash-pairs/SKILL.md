@@ -1,6 +1,6 @@
 ---
 name: 121-caption-caps-swash-pairs
-description: Applies the "Caps Swash Pairs" caption style (untouched full-frame footage, tiny wide-tracked white capital words that appear one by one above and below one giant white italic serif keyword in the lower third, a soft shadow, one optional accent-coloured payoff word, hard-cut chunks) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants editorial, small caps plus big italic serif, minimal poster-like captions.
+description: "Applies the \"Caps Swash Pairs\" caption style (untouched full-frame footage, tiny wide-tracked white capital words that appear one by one above and below one giant white italic serif keyword in the lower third, a soft shadow, one optional accent-coloured payoff word, hard-cut chunks) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants editorial, small caps plus big italic serif, minimal poster-like captions."
 ---
 
 # 121-caption-caps-swash-pairs — Caps Swash Pairs

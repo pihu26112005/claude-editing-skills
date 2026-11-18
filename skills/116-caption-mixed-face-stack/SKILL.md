@@ -1,6 +1,6 @@
 ---
 name: 116-caption-mixed-face-stack
-description: Applies the "Mixed Face Stack" caption style (untouched full-frame footage with a tight stack of two to four lines that mixes heavy white capitals, bright accent capitals, a big italic serif and tiny connector words, each word popping in on its spoken beat, the stack hard-cutting away at chunk end) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants mixed-font, stacked, kinetic, multi-typeface, serif-and-sans or accent-word captions.
+description: "Applies the \"Mixed Face Stack\" caption style (untouched full-frame footage with a tight stack of two to four lines that mixes heavy white capitals, bright accent capitals, a big italic serif and tiny connector words, each word popping in on its spoken beat, the stack hard-cutting away at chunk end) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants mixed-font, stacked, kinetic, multi-typeface, serif-and-sans or accent-word captions."
 ---
 
 # 116-caption-mixed-face-stack — Mixed Face Stack

@@ -1,6 +1,6 @@
 ---
 name: 103-graphics-thread-word-relay
-description: Makes the "Thread Word Relay" animated graphic (a square, generic social-thread card that flickers through many different invented posters all writing the same word, one word at a time, to spell out a sentence) from the user's own words, handles and colours, as a finished 1:1 video. Use when the user wants a word-by-word comment flicker, thread match cut, crowd-says-it sentence reveal or fast avatar-swap text gag.
+description: "Makes the \"Thread Word Relay\" animated graphic (a square, generic social-thread card that flickers through many different invented posters all writing the same word, one word at a time, to spell out a sentence) from the user's own words, handles and colours, as a finished 1:1 video. Use when the user wants a word-by-word comment flicker, thread match cut, crowd-says-it sentence reveal or fast avatar-swap text gag."
 ---
 
 # 103 · Thread Word Relay

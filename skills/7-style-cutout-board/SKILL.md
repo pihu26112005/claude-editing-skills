@@ -1,6 +1,6 @@
 ---
 name: 7-style-cutout-board
-description: Applies the "Cutout Board" motion-graphics style (the subject snapped out as a sticker with a thick boiling yellow outline onto a green cutting mat with grid and crop marks, captions mixing small serif words, a hot-pink highlighter tag and a giant ultra-wide black word on a white label strip) to the user's own video, image or captions without altering the subject's footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a designer-desk, sticker, cutout, collage-board or bold mixed-typography caption look.
+description: "Applies the \"Cutout Board\" motion-graphics style (the subject snapped out as a sticker with a thick boiling yellow outline onto a green cutting mat with grid and crop marks, captions mixing small serif words, a hot-pink highlighter tag and a giant ultra-wide black word on a white label strip) to the user's own video, image or captions without altering the subject's footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a designer-desk, sticker, cutout, collage-board or bold mixed-typography caption look."
 ---
 
 # Cutout Board

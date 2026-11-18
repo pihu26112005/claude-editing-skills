@@ -1,6 +1,6 @@
 ---
 name: 5-caption-depth-headline
-description: Applies the "Depth Headline" motion-graphics style (a giant ultra-condensed word standing behind the speaker that snaps yellow in a translucent box the instant it is spoken, plus small bold karaoke captions that leave that word out) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants text-behind-person, bold headline-word, yellow-highlight or punchy creator-style captions.
+description: "Applies the \"Depth Headline\" motion-graphics style (a giant ultra-condensed word standing behind the speaker that snaps yellow in a translucent box the instant it is spoken, plus small bold karaoke captions that leave that word out) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants text-behind-person, bold headline-word, yellow-highlight or punchy creator-style captions."
 ---
 
 # Depth Headline

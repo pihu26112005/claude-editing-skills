@@ -1,6 +1,6 @@
 ---
 name: 73-graphics-tile-strip-pick-out
-description: Makes the "Tile Strip Pick-Out" animated graphic (a tilted stream of 15 numbered rounded tiles flattens into a row, a hand cursor glides along it, hovers and clicks one tile, the strip fans away and the chosen tile settles large in the centre) from the user's own label word, chosen number and colours, as a finished 16:9 video. Use when the user wants a pick-one-from-many, choose-a-clip, select-an-item, cursor-click or numbered thumbnail strip animation.
+description: "Makes the \"Tile Strip Pick-Out\" animated graphic (a tilted stream of 15 numbered rounded tiles flattens into a row, a hand cursor glides along it, hovers and clicks one tile, the strip fans away and the chosen tile settles large in the centre) from the user's own label word, chosen number and colours, as a finished 16:9 video. Use when the user wants a pick-one-from-many, choose-a-clip, select-an-item, cursor-click or numbered thumbnail strip animation."
 ---
 
 # 73 · Tile Strip Pick-Out

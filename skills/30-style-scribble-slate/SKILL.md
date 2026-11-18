@@ -1,6 +1,6 @@
 ---
 name: 30-style-scribble-slate
-description: Applies the "Scribble Slate" motion-graphics style (a chalky stacked block title behind the speaker, a wobbly yellow marker outline around the person, tiny handwritten captions with dark chips and yellow keywords, and a sliced glitch-wipe that drops a charcoal slate or cream paper board where the footage sits in a wobbly yellow-framed card among doodles) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a hand-drawn, doodle, marker, chalkboard, notebook or scribble look.
+description: "Applies the \"Scribble Slate\" motion-graphics style (a chalky stacked block title behind the speaker, a wobbly yellow marker outline around the person, tiny handwritten captions with dark chips and yellow keywords, and a sliced glitch-wipe that drops a charcoal slate or cream paper board where the footage sits in a wobbly yellow-framed card among doodles) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants a hand-drawn, doodle, marker, chalkboard, notebook or scribble look."
 ---
 
 # 30-style-scribble-slate — Scribble Slate

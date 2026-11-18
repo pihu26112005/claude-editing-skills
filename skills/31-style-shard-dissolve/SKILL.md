@@ -1,6 +1,6 @@
 ---
 name: 31-style-shard-dissolve
-description: Applies the "Shard Dissolve" motion-graphics style (hot vermilion-orange slanted slats that slice across the footage, a heavy yellow italic title, an orange-framed inset window with a square B-roll card and a giant outline word, grain dissolves between shots, split-weight white captions of thin words and heavy italic keywords, and a closing wall of giant grey words) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants an orange, bold, sporty, slanted, sliced, motivational or high-energy caption look.
+description: "Applies the \"Shard Dissolve\" motion-graphics style (hot vermilion-orange slanted slats that slice across the footage, a heavy yellow italic title, an orange-framed inset window with a square B-roll card and a giant outline word, grain dissolves between shots, split-weight white captions of thin words and heavy italic keywords, and a closing wall of giant grey words) to the user's own video, image or captions without altering the footage, as a finished video/image or a detailed Google Flow master prompt. Use when the user wants an orange, bold, sporty, slanted, sliced, motivational or high-energy caption look."
 ---
 
 # 31-style-shard-dissolve — Shard Dissolve

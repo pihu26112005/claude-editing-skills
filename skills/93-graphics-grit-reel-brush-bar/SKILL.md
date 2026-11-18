@@ -1,6 +1,6 @@
 ---
 name: 93-graphics-grit-reel-brush-bar
-description: Makes the "Grit Reel Brush Bar" animated graphic (a one-line title typed letter by letter on a dry-brush colour bar over dark scratched film grain, with a small circuit-line tag and camera-gate HUD marks) from the user's own text and colours, as a finished 16:9 video. Use when the user wants a gritty film title, brush-stroke highlight title, dark worn-film teaser text, red-bar caption or distressed lower-third style title card.
+description: "Makes the \"Grit Reel Brush Bar\" animated graphic (a one-line title typed letter by letter on a dry-brush colour bar over dark scratched film grain, with a small circuit-line tag and camera-gate HUD marks) from the user's own text and colours, as a finished 16:9 video. Use when the user wants a gritty film title, brush-stroke highlight title, dark worn-film teaser text, red-bar caption or distressed lower-third style title card."
 ---
 
 # 93 · Grit Reel Brush Bar

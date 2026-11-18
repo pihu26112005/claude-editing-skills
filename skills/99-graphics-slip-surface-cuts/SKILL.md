@@ -1,6 +1,6 @@
 ---
 name: 99-graphics-slip-surface-cuts
-description: Makes the "Slip Surface Cuts" animated graphic (a typed paper label held centre-frame while the desk surface under it hard-cuts between wood, graph paper and cutting mats every 0.2 s) from the user's own text, optional props and colours, as a finished 9:16 video. Use when the user wants a typed paper-label intro, rapid background-swap title, label-on-desk text reveal or paper slip title card.
+description: "Makes the \"Slip Surface Cuts\" animated graphic (a typed paper label held centre-frame while the desk surface under it hard-cuts between wood, graph paper and cutting mats every 0.2 s) from the user's own text, optional props and colours, as a finished 9:16 video. Use when the user wants a typed paper-label intro, rapid background-swap title, label-on-desk text reveal or paper slip title card."
 ---
 
 # 99 · Slip Surface Cuts
