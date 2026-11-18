@@ -189,13 +189,13 @@ Or in two steps, from your shell:
 
 ```bash
 claude plugin marketplace add pihu26112005/claude-editing-skills
-claude plugin install motion-graphics-skills@claude-editing-skills
+claude plugin install motion-graphics-skills@motion-graphics-skills
 ```
 
 Update later to get new styles:
 
 ```bash
-claude plugin update motion-graphics-skills@claude-editing-skills
+claude plugin update motion-graphics-skills@motion-graphics-skills
 ```
 
 Or with the open skills CLI (works with Claude Code and other agents):
@@ -203,8 +203,6 @@ Or with the open skills CLI (works with Claude Code and other agents):
 ```bash
 npx skills add pihu26112005/claude-editing-skills
 ```
-
-Installed it before under the old name `claude-editing-skills`? Nothing to do: it moves to the new name by itself on the next update.
 
 ### claude.ai and Cowork
 
